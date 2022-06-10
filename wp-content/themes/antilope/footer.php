@@ -1,6 +1,7 @@
     <footer class="footer">
         <section class="footer__body">
             <h2 class="hidden">Footer</h2>
+            <div class="footer__wrap">
             <div class="footer__rs">
                 <p class="footer__rs-para">
                     Retrouvez-nous sur nos r&eacute;seaux sociaux
@@ -18,6 +19,7 @@
                     </a>
 
                 </div>
+            </div>
             </div>
             <a href="privacy" class="footer__privacy-btn">Politique de confidentialit&eacute;</a>
 

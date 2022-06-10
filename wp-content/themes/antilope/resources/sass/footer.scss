@@ -1,0 +1,36 @@
+.footer{
+  background-color: $bg_color;
+  margin: 100px -4rem 0 -4rem ;
+  padding-bottom: 2.4rem;
+
+  &__rs{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #ffffff;
+    margin-left: 4rem;
+    //margin: 0 12rem 0 4rem;
+    text-align: center;
+   // min-height: 200px;
+    padding: 3.6rem 5.4rem;
+    margin-bottom: 3.6rem;
+  }
+  &__rs-para{
+    margin-bottom: 2.4rem;
+  }
+  &__rs-fb-ln a+a{
+    margin-left: 1.6rem;
+  }
+  a{
+    text-decoration: none;
+  }
+  &__privacy-btn{
+    margin-left: 4rem;
+    color: $input_color;
+  }
+
+
+
+}
+
